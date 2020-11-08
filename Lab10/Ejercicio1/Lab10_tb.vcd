@@ -1,0 +1,245 @@
+$date
+	Sat Nov 07 22:54:40 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Ej1 $end
+$var wire 4 ! Q1 [3:0] $end
+$var wire 4 " Q [3:0] $end
+$var reg 1 # CLK $end
+$var reg 12 $ D [11:0] $end
+$var reg 1 % E1 $end
+$var reg 1 & E2 $end
+$var reg 1 ' L $end
+$var reg 1 ( R $end
+$scope module U1 $end
+$var wire 1 # CLK $end
+$var wire 12 ) D [11:0] $end
+$var wire 1 % E1 $end
+$var wire 1 & E2 $end
+$var wire 1 ' L $end
+$var wire 8 * MROUT [7:0] $end
+$var wire 1 ( R $end
+$var wire 4 + Q1 [3:0] $end
+$var wire 4 , Q [3:0] $end
+$var wire 12 - CLOUT [11:0] $end
+$scope module O1 $end
+$var wire 1 # CLK $end
+$var wire 1 % E $end
+$var wire 1 ' L $end
+$var wire 1 ( R $end
+$var wire 12 . d [11:0] $end
+$var reg 12 / out [11:0] $end
+$upscope $end
+$scope module O2 $end
+$var wire 12 0 a [11:0] $end
+$var wire 8 1 d [7:0] $end
+$var wire 1 2 data $end
+$upscope $end
+$scope module O3 $end
+$var wire 1 # CLK $end
+$var wire 1 & E $end
+$var wire 1 ( R $end
+$var wire 8 3 da [7:0] $end
+$var wire 4 4 D1 [3:0] $end
+$var wire 4 5 D [3:0] $end
+$var reg 4 6 Q [3:0] $end
+$var reg 4 7 Q1 [3:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx 7
+bx 6
+bz 5
+bz 4
+bz 3
+x2
+bz 1
+bx 0
+bx /
+bx .
+bx -
+bx ,
+bx +
+bz *
+bx )
+x(
+x'
+x&
+x%
+bx $
+0#
+bx "
+bx !
+$end
+#3
+b0 -
+b0 /
+b0 0
+b0 "
+b0 +
+b0 7
+b0 !
+b0 ,
+b0 6
+b0 $
+b0 )
+b0 .
+0'
+0&
+0%
+1(
+1#
+#5
+0(
+#6
+0#
+#9
+1#
+#12
+0#
+#15
+1#
+#18
+0#
+#20
+bz "
+bz +
+bz 7
+bz !
+bz ,
+bz 6
+1&
+1%
+#21
+b1 -
+b1 /
+b1 0
+1#
+#24
+0#
+#27
+b10 -
+b10 /
+b10 0
+1#
+#30
+0#
+#33
+b11 -
+b11 /
+b11 0
+1#
+#36
+0#
+#39
+b100 -
+b100 /
+b100 0
+1#
+#42
+0#
+#45
+b101 -
+b101 /
+b101 0
+1#
+#48
+0#
+#51
+b110 -
+b110 /
+b110 0
+1#
+#54
+0#
+#57
+b111 -
+b111 /
+b111 0
+1#
+#60
+0#
+#63
+b1000 -
+b1000 /
+b1000 0
+1#
+#65
+b110010 -
+b110010 /
+b110010 0
+1'
+b110010 $
+b110010 )
+b110010 .
+#66
+0#
+#69
+1#
+#72
+0#
+#75
+b110011 -
+b110011 /
+b110011 0
+1#
+0'
+#78
+0#
+#81
+b110100 -
+b110100 /
+b110100 0
+1#
+#84
+0#
+#87
+b110101 -
+b110101 /
+b110101 0
+1#
+#90
+0#
+#93
+b110110 -
+b110110 /
+b110110 0
+1#
+#96
+0#
+#99
+b110111 -
+b110111 /
+b110111 0
+1#
+#102
+0#
+#105
+b111000 -
+b111000 /
+b111000 0
+1#
+#108
+0#
+#111
+b111001 -
+b111001 /
+b111001 0
+1#
+#114
+0#
+#117
+b111010 -
+b111010 /
+b111010 0
+1#
+#120
+0#
